@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+
+.title{
+    text-align: center;
+}
+
+.container{
+    padding: 1.2rem;
+}
+
+.row {
+    text-align: center;
+    padding: 1.2rem; 
+}
+
+.row button {
+    min-width: 80px;
+    min-height: 40px;
+    margin: 1rem;
+}
+#editor{
+    min-width: 400px;
+    min-height: 400px;
+}
+
+
+
